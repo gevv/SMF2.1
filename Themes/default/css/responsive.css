@@ -227,7 +227,7 @@
 		display: none;
 	}
 	/* Unread */
-	#unread .board_icon, #unread .lastpost {
+	#unread .board_icon, #unread, #unreadreplies .lastpost {
 		display: none;
 	}
 
